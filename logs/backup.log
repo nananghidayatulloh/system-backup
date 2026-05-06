@@ -1,0 +1,14 @@
+[2026-05-06 12:21:21] INFO: =============================
+[2026-05-06 12:21:21] INFO:   MULAI PROSES BACKUP SEMUA  
+[2026-05-06 12:21:21] INFO: =============================
+[2026-05-06 12:21:21] INFO: --- Backup MySQL
+[2026-05-06 12:21:21] INFO: Mulai dump MySQL database: awa_agent_5
+[2026-05-06 12:21:54] ERROR: Backup MySQL fail: mysqldump: Got error: 1449: "The user specified as a definer ('alphaonewealth_admin'@'localhost') does not exist" when using LOCK TABLES
+
+[2026-05-06 12:22:30] INFO: =============================
+[2026-05-06 12:22:30] INFO:   MULAI PROSES BACKUP SEMUA  
+[2026-05-06 12:22:30] INFO: =============================
+[2026-05-06 12:22:30] INFO: --- Backup MySQL
+[2026-05-06 12:22:30] INFO: Mulai dump MySQL database: awa_agent_5
+[2026-05-06 12:22:32] ERROR: Backup MySQL fail: mysqldump: Got error: 1449: "The user specified as a definer ('alphaonewealth_admin'@'localhost') does not exist" when using LOCK TABLES
+
